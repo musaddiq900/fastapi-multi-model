@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+diffusers
+torch
+accelerate
+huggingface-hub
+pillow
+python-multipart
+pydantic
